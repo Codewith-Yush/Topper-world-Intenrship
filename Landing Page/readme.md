@@ -3,4 +3,4 @@ I create a landing page of a Photography Brand thats show its offers,contact,Abo
 # Languages i used
 `HTML` `CSS` `JAVASCRIPT`
 
-You cam check it out [here](https://codewith-yush.github.io/Landing-page-/)
+You can check it out [here](https://codewith-yush.github.io/Landing-page-/)
